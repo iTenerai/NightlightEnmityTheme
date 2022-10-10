@@ -151,7 +151,7 @@
     "STATUS_GREEN": "#e3bcd7"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#21252e"
+    "CHAT_GREY": "#FFFFFF"
   },
   "background": {
     "blur": 1,
